@@ -1,0 +1,208 @@
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.dll.config
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.pdb
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Antlr3.Runtime.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\AspNet.ScriptManager.jQuery.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.SqlServer.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Google.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Web.Infrastructure.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Newtonsoft.Json.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Owin.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Optimization.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Providers.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\WebGrease.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Optimization.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Antlr3.Runtime.pdb
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Newtonsoft.Json.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.SqlServer.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Providers.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Google.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.csprojResolveAssemblyReference.cache
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.dll
+G:\Ayesha_R33\Ayesha Siddika\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.pdb
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.dll.config
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.pdb
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Antlr3.Runtime.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\AspNet.ScriptManager.jQuery.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.SqlServer.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Google.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Newtonsoft.Json.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Owin.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Optimization.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Providers.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\WebGrease.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Optimization.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Antlr3.Runtime.pdb
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Newtonsoft.Json.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.SqlServer.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Providers.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Google.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.csprojResolveAssemblyReference.cache
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.dll
+D:\Lucky\C#\Module-7\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.pdb
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.dll.config
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.pdb
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Antlr3.Runtime.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\AspNet.ScriptManager.jQuery.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.SqlServer.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Google.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Newtonsoft.Json.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Owin.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Optimization.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Providers.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\WebGrease.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Optimization.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Antlr3.Runtime.pdb
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Newtonsoft.Json.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.SqlServer.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Providers.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Google.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.csprojResolveAssemblyReference.cache
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.dll
+D:\Lucky\C#\Module-7\pppp\ASP_Project\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.pdb
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.dll.config
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\HR_ASP_Project.pdb
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Antlr3.Runtime.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\AspNet.ScriptManager.jQuery.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.SqlServer.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Google.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Web.Infrastructure.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Newtonsoft.Json.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Owin.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Optimization.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Providers.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\WebGrease.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Optimization.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Antlr3.Runtime.pdb
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Newtonsoft.Json.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\EntityFramework.SqlServer.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\System.Web.Providers.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Google.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.csprojResolveAssemblyReference.cache
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.dll
+F:\Ayesha_R33\Ayesha\HR_ASP_Project\HR_ASP_Project\obj\Debug\HR_ASP_Project.pdb
